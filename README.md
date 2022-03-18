@@ -42,5 +42,7 @@ Example video:[我用无人机和Unity3D为【东南大学】做了虚拟校园�
 - [Unity-3mx](https://github.com/ProjSEED/Unity-3mx)
 - [off-screen-indicator](https://github.com/jinincarnate/off-screen-indicator)
 
-Hope this project helps u, buy me a coffee if u can.
-![zan](./Doc/zan.jpg){:height="100px" width="100px"}
+#### Hope this project helps u, buy me a coffee if u can.
+<div align="center">
+	<img src="./Doc/zan.jpg" width="100">
+</div>
