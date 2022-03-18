@@ -44,5 +44,5 @@ Example video:[我用无人机和Unity3D为【东南大学】做了虚拟校园�
 
 #### Hope this project helps u, buy me a coffee if u can.
 <div align="center">
-	<img src="./Doc/zan.jpg" width="100">
+	<img src="./Doc/zan.jpg" width="300">
 </div>
