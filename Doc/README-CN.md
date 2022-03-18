@@ -39,3 +39,9 @@ Unity3d项目：虚拟校园。示例代码运行效果如下：
 ## 开源轮子
 - [Unity-3mx](https://github.com/ProjSEED/Unity-3mx)
 - [off-screen-indicator](https://github.com/jinincarnate/off-screen-indicator)
+
+
+#### 希望项目对你有帮助！如果可能，送我被咖啡吧～
+<div align="center">
+	<img src="./Doc/zan.jpg" width="100">
+</div>
