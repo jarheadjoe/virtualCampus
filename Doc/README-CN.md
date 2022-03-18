@@ -24,17 +24,17 @@ Unity3d项目：虚拟校园。示例代码运行效果如下：
 
   - 在这里添加模型，并填入路径（本地文件路径或网址）:
 
-    ![add_model](E:/0_work/2_selfwork/1_unityproject/virtualCampus/Doc/add_model.png)
+    ![add_model](./add_model.png)
 
   - 在这里添加作为目标的方块，并填入名字和跳转网址：
 
-    ![add_target](E:/0_work/2_selfwork/1_unityproject/virtualCampus/Doc/add_target.png)
+    ![add_target](./add_target.png)
 
 - 改变小地图:
 
   运行后利用截图脚本截图，并把截图替换到Quad中：
 
-  ![image-20220316142040365](E:/0_work/2_selfwork/1_unityproject/virtualCampus/Doc/minimap.png)
+  ![image-20220316142040365](./minimap.png)
 
 ## 开源轮子
 - [Unity-3mx](https://github.com/ProjSEED/Unity-3mx)
@@ -43,5 +43,5 @@ Unity3d项目：虚拟校园。示例代码运行效果如下：
 
 #### 希望项目对你有帮助！如果可能，送我被咖啡吧～
 <div align="center">
-	<img src="./Doc/zan.jpg" width="100">
+	<img src="./zan.jpg" width="100">
 </div>
